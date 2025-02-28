@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+.azul{
+    background-color: rgb(140, 0, 255);
+    padding: 50px;
+    width: 430px;
+    margin: 100px; 
+}
+
+.amarela{
+    background-color: yellow;
+    padding: 50px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+}
+
+.big{
+    padding-bottom: 150px;
+}
+
+.width{
+    width: 150px;
+}
+
+.inv{
+    width: 430px;
+}
